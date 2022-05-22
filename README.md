@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/dominikgondos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikgondos" height="30" width="40" /></a>
 <a href="https://instagram.com/dome_gondos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dome_gondos" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/m0nke3ey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m0nke3ey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/themonkiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themonkiee" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/VVxRdN9sAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/VVxRdN9sAg" height="30" width="40" /></a>
 </p>
 
