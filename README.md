@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dominikgondos" target="blank"><img src="https://img.shields.io/twitter/follow/dominikgondos?logo=twitter&style=for-the-badge" alt="dominikgondos" /></a> </p>
 
-- 🔭 I’m currently working on **Arsenic**
+- 🔭 I’m currently working on **Arsenic** and **Epidote**
 
 - 🌱 I’m currently learning **courses**
 
