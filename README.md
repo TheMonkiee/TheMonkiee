@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheMonkiee&theme=dracula&no-frame=true" alt="TheMonkiee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dominikgondos" target="blank"><img src="https://img.shields.io/twitter/follow/dominikgondos?logo=twitter&style=for-the-badge" alt="dominikgondos" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamthemonkiee" target="blank"><img src="https://img.shields.io/twitter/follow/dominikgondos?logo=twitter&style=for-the-badge" alt="dominikgondos" /></a> </p>
 
 - 🔭 I’m currently working on **Arsenic** and **Epidote**
 
