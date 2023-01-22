@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheMonkiee&theme=dracula&no-frame=true" alt="TheMonkiee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamthemonkiee" target="blank"><img src="https://img.shields.io/twitter/follow/dominikgondos?logo=twitter&style=for-the-badge" alt="dominikgondos" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamthemonkiee" target="blank"><img src="https://img.shields.io/twitter/follow/iamthemonkiee?logo=twitter&style=for-the-badge" alt="iamthemonkiee" /></a> </p>
 
-- 🔭 I’m currently working on **Arsenic** and **Epidote**
+- 🔭 I’m currently working on **Echodox**
 
 - 🌱 I’m currently learning **courses**
 
-- 👯 I’m currently collaborate on **VanityEmpire**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dominikgondos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dominikgondos" height="30" width="40" /></a>
+<a href="https://twitter.com/iamthemonkiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamthemonkiee" height="30" width="40" /></a>
 <a href="https://instagram.com/dome_gondos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dome_gondos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/themonkiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themonkiee" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/VVxRdN9sAg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/VVxRdN9sAg" height="30" width="40" /></a>
